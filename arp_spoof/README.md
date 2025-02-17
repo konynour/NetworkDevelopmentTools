@@ -30,12 +30,11 @@ pip install scapy
 ⚙️ Usage
 Edit the script to set the target IP and gateway IP:
  ## Python
-    ```sh
+    
 target_ip = "192.168.1.X"  # Replace with victim's IP
 gateway_ip = "192.168.1.1"  # Replace with router's IP
 Run the script with:
  
-    ```sh
 python arp_spoof.py
 Stop the attack using CTRL + C, which restores the ARP tables.
 
