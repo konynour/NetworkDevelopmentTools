@@ -17,6 +17,10 @@ This repository contains various network-related tools for tasks such as ARP sca
 - **Description**: Changes the MAC address of a specified network interface.
 - **Folder**: [MAC_Changer](MAC_Changer)
 - **Usage**: `python mac_changer.py -i <Interface> -m <New MAC Address>`
+### arp_spoof
+- **Description**:The attack manipulates the ARP tables of a victim and a router .
+- **Folder**: [arp_spoof](arp_spoof/)
+- **Usage**: `python arp-spoof.py `
 
 ---
 
