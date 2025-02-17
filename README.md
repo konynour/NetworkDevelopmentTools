@@ -89,8 +89,3 @@ Copy
 
 Feel free to customize the email address and any other details as needed.
 
-
-###  to Download
-2. :
-   ```bash
-   git clone https://github.com/konynour/NetworkDevelopmentTools.git
