@@ -30,9 +30,11 @@ pip install scapy
 ⚙️ Usage
 Edit the script to set the target IP and gateway IP:
  ## Python
-    
+shCopy    
 target_ip = "192.168.1.X"  # Replace with victim's IP
 gateway_ip = "192.168.1.1"  # Replace with router's IP
+
+scCopy
 Run the script with:
  
 python arp_spoof.py
