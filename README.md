@@ -8,10 +8,10 @@ This repository contains various network-related tools for tasks such as ARP sca
 
 ## Tools
 
-### ARP Scanner
+### network-Scanner
 - **Description**: Scans a network for devices by sending ARP requests.
-- **Folder**: [ARP_Scanner](network_Scanner)
-- **Usage**: `python arp_scanner.py -t <IP Address or Range>`
+- **Folder**: [network_Scanner](network_Scanner)
+- **Usage**: `python network-scanner.py -t <IP Address or Range>`
 
 ### MAC Changer
 - **Description**: Changes the MAC address of a specified network interface.
@@ -41,8 +41,7 @@ bashCopy
 pip install scapy
 Usage
 bashCopy
-cd network_Scanner
-python network-scanner.py
+cd network-Scanner
 Run the script:
 bashCopy
 sudo python network-scanner.py -target <IP Address or Range>
