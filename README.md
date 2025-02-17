@@ -56,11 +56,7 @@ sudo python mac_changer.py -i <Interface> -m <New MAC Address>
 Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-Contact
-For any questions or inquiries, please contact your-email@example.com.
-Copy
-
+This project is licensed under the MIT License 
 ### Explanation of Changes:
 
 1. **Header and Title**:
