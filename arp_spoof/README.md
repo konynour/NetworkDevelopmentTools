@@ -1,5 +1,4 @@
-Sure! Below is the formatted content for your README.md file. You can copy and paste this into a new file named README.md in your project repository.
-markdownCopy
+
 # ARP Spoofing Attack
 
 ## 📌 Overview
@@ -30,13 +29,17 @@ shCopy
 pip install scapy
 ⚙️ Usage
 Edit the script to set the target IP and gateway IP:
-PythonCopy
+ ## Python
+    ```sh
 target_ip = "192.168.1.X"  # Replace with victim's IP
 gateway_ip = "192.168.1.1"  # Replace with router's IP
 Run the script with:
-shCopy
+ 
+    ```sh
 python arp_spoof.py
 Stop the attack using CTRL + C, which restores the ARP tables.
+
+
 📜 License
 This project is licensed under the MIT License.
 
