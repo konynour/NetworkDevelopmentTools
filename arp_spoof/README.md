@@ -47,3 +47,4 @@ This project is a Python script that performs an **ARP Spoofing Attack** using t
 ## 📜 License
 This project is licensed under the MIT License.
 
+This project is intended for learning purposes only. The author is not responsible for any misuse of this script.
