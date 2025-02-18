@@ -44,7 +44,5 @@ This project is a Python script that performs an **ARP Spoofing Attack** using t
 3. Stop the attack:
    Stop the attack using `CTRL + C`, which restores the ARP tables.
 
-## 📜 License
-This project is licensed under the MIT License.
 
 This project is intended for learning purposes only. The author is not responsible for any misuse of this script.

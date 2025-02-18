@@ -80,11 +80,5 @@ This project is licensed under the MIT License
 6. **Contributing Section**:
    - Added a section to encourage contributions and provide guidance on how to contribute.
 
-7. **License Section**:
-   - Included a section for the license to inform users about the legal aspects of using the tools.
-
-8. **Contact Section**:
-   - Added a contact section to provide a way for users to reach out if they have questions or need support.
-
-Feel free to customize the email address and any other details as needed.
+.
 
